@@ -1,5 +1,7 @@
 # alarm-clock
 
+An alarm clock with seven segment display, text display, DCF77 time receiver, temperature sensor, and mp3 player
+
 ![gg (6)](https://user-images.githubusercontent.com/11595624/147977716-79047ead-2ee0-44af-9dcb-f6d960f99c9e.JPG)
 ![ffff](https://user-images.githubusercontent.com/11595624/147977820-8932e96b-bfe0-4b6b-9ae4-79ca69b57940.JPG)
 ![mm](https://user-images.githubusercontent.com/11595624/147977733-21c8db4a-0561-4b44-97ca-0e5d240b6ad2.JPG)
